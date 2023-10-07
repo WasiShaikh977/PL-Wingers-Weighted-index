@@ -2,6 +2,8 @@
 
 Welcome to the English Premier League Winger Analysis project! In this project, we aim determine who stands out as the best winger in the English Premier League. Leveraging Wyscout data spanning seasons from 2020/2021 to 2022/2023 (3 seasons), we will build a statistical model to separate the best from the rest.
 
+![Salah report](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png)
+
 ## Key Findings
 1 - Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
 
