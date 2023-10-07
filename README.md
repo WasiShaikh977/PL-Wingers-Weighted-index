@@ -46,3 +46,7 @@ seaborn
 ## Tableau Dashboard link
 
 [Click here](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/PremierLeagueWingersWeightedindex/Dashboard1?publish=yes)
+
+## Player Report Example
+
+![](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/Salah%20report.jpg)
