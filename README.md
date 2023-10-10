@@ -28,7 +28,7 @@ A Total of 21 different KPIs are used to calculate the final weighted metric.
 7 - Julio Enciso made a mark in his first season in the PL ranking 3rd for U23s and 7th overall in the season 22-23.
 
 ## Softwares used
-Python
+Jupyter Notebook (Python)
 
 Tableau
 
