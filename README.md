@@ -43,6 +43,8 @@ IPython
 
 sklearn
 
+matplotlib
+
 seaborn
 
 ## Tableau Dashboard link
