@@ -2,7 +2,7 @@
 
 Welcome to the English Premier League Winger Analysis project! In this project, we aim determine who stands out as the best winger in the English Premier League. Leveraging Wyscout data spanning seasons from 2020/2021 to 2022/2023 (3 seasons), we will build a statistical model to separate the best from the rest.
 
-![](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png)
+![](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/Salah%20report.jpg)
 
 ## Project Overview
 
