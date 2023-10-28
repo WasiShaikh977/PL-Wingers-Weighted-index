@@ -6,9 +6,9 @@ Welcome to the English Premier League Winger Analysis project! In this project, 
 
 ## Project Overview
 
-In modern football, tons of different metrics are used to determing how well a player does in certain aspects of the game. Goals, shots on target, goal conversion rate, etc show you how good a player is at scoring goals for his team. Whereas other stats like key passes, assists, through passes, cross completion percentage, etc point towards how good a player is at creating chances for her teammates. Hundreds of KPIs (Key point indicators) are used my modern football analysts and data scientists to objectify a player's performance.
+In modern football, tons of different metrics are used to determing how well a player does in certain aspects of the game. Goals, shots on target, goal conversion rate, etc show you how good a player is at scoring goals for his team. Whereas other stats like key passes, assists, through passes, cross completion percentage, etc point towards how good a player is at creating chances for her teammates. Hundreds of KPIs (Key point indicators) are used by modern football analysts and data scientists to objectify a player's performance.
 
-In this project, we will handpick 21 of these KPIs and use statistical modelling techniques to mesh all of them together into 1 metric. This is the Wingers Weigthted index. The higher the index, the better the player. We will create 4 indexes (All rounder, Goalscorer, Creator, Dribbler). Different weights will be given to different metrics for the various indexes.
+In this project, we will handpick 21 of these KPIs and use statistical modelling techniques to mesh all of them together into 1 metric. This is the Wingers Weigthted index. The higher the index, the better the player. We will create 4 such indexes (All rounder, Goalscorer, Creator, Dribbler). Different weights will be given to different metrics for the various indexes.
 - All Rounder index: Equally distributed weights as per a winger's requirements
 - Goalscorer index: More importance given to goalscoring metrics
 - Creator index: More importance given to chance creation metrics
